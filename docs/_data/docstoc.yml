@@ -7,27 +7,27 @@
       url: gettingstarted.html
     - title: 'VS Code'
       children:        
-      - title: '1. Installing Codewind for VS Code'
+      - title: 'Installing Codewind for VS Code'
         url: vsc-getting-started.html
-      - title: '2. Creating your first Codewind project with Codewind for VS Code'
+      - title: 'Creating your first Codewind project with Codewind for VS Code'
         url: vsc-firstproject.html
-      - title: '3. Making a code change with VS Code'
+      - title: 'Making a code change with VS Code'
         url: vsc-codechange.html
     - title: 'Eclipse'
       children:
-      - title: '1. Installing Codewind for Eclipse'
+      - title: 'Installing Codewind for Eclipse'
         url: eclipse-getting-started.html
-      - title: '2. Creating your first Codewind project with Codewind for Eclipse'
+      - title: 'Creating your first Codewind project with Codewind for Eclipse'
         url: eclipse-firstproject.html
-      - title: '3. Making a code change with Eclipse'
+      - title: 'Making a code change with Eclipse'
         url: eclipse-codechange.html
     - title: 'IntelliJ'
       children:
-      - title: '1. Installing Codewind for IntelliJ'
+      - title: 'Installing Codewind for IntelliJ'
         url: intellij-getting-started.html
-      - title: '2. Creating your first Codewind project with Codewind for IntelliJ'
+      - title: 'Creating your first Codewind project with Codewind for IntelliJ'
         url: intellij-firstproject.html
-      - title: '3. Making a code change with IntelliJ'
+      - title: 'Making a code change with IntelliJ'
         url: intellij-codechange.html
 
 - title: 'Deploying Codewind remotely'
@@ -50,19 +50,19 @@
 
 - title: 'Using Codewind on Eclipse Che'
   children:
-  - title: '1. Installing Eclipse Che for Codewind'
+  - title: 'Installing Eclipse Che for Codewind'
     url: che-installinfo.html
-  - title: '2. Adding an image registry in Codewind on Eclipse Che'
+  - title: 'Adding an image registry in Codewind on Eclipse Che'
     url: che-setupregistries.html 
-  - title: '2a. Adding the OpenShift internal registry with Codewind'
+  - title: 'Adding the OpenShift internal registry with Codewind'
     url: openshiftregistry.html
-  - title: '3. Creating a Codewind workspace in Eclipse Che'
+  - title: 'Creating a Codewind workspace in Eclipse Che'
     url: che-createcodewindworkspace.html
-  - title: '4. Creating your first Codewind project with Codewind for Eclipse Che'
+  - title: 'Creating your first Codewind project with Codewind for Eclipse Che'
     url: che-createfirstproject.html
-  - title: '5. Making a code change with Codewind for Eclipse Che'
+  - title: 'Making a code change with Codewind for Eclipse Che'
     url: che-codechange.html
-  - title: '6. Uninstalling Codewind for Eclipse Che'
+  - title: 'Uninstalling Codewind for Eclipse Che'
     url: che-uninstall.html
 
 - title: 'OpenShift Do (odo) support in Codewind'
